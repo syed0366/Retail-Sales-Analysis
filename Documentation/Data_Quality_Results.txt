@@ -1,0 +1,18 @@
+Retail Sales Dataset
+
+Missing Customer ID = 0
+Missing Gender = 0
+Missing Age = 0
+
+Duplicate Transactions = 0
+
+Invalid Age Records = 0
+
+Invalid Quantity Records = 0
+
+Invalid Revenue Records = 0
+
+Revenue Validation Errors = 0
+
+Conclusion:
+Dataset is clean and ready for analysis.
